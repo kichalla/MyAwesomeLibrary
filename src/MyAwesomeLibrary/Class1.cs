@@ -15,7 +15,7 @@ namespace MyAwesomeLibrary
 
         public string Get()
         {
-            return "Hello World!"
+            return "Hello World!";
         }
     }
 }
